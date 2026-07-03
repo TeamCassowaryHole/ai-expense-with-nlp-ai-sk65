@@ -1,4 +1,4 @@
-# 
+# 官方 AI Expense Tracker with NLP 插件。集成 生成式AI 和 神经网络，性能最大化。
 
 
 
